@@ -7,9 +7,10 @@
 This report is prepared for the final assignment of the Overview of Natural Language Processing course at the University of Cambridge. For this assignment, I built an abstractive summarization system using an encoder-decoder transformer architecture. I trained and evaluated this model on different subsets of the CNN/DailyMail dataset. Additionally, I compared the performance of this
 system with extractive approaches.
 
-## Error Types
+## Results
 ![Alt text](assets/rouge-distribution.png)
-![Alt text](assets/legthvsscore.png)
+![Alt text](assets/lengthvsscore.png)
+## Examples
 ![Alt text](assets/example1.png)
 ![Alt text](assets/example2.png)
 ![Alt text](assets/example3.png)
